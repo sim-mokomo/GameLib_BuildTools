@@ -1,4 +1,4 @@
-require_relative '../../system/shipping'
+require_relative '../common/shipping'
 
 module Build
   module IOS
